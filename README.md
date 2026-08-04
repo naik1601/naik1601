@@ -64,6 +64,10 @@ I'm passionate about building scalable software applications, modern data platfo
 - GitHub Actions
 
 ---
+## 🏆 Certifications
+
+- **Databricks Certified Data Engineer Associate** — Databricks
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** 
 
 # 💼 Featured Projects
 
