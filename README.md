@@ -11,7 +11,7 @@ I'm passionate about building scalable software applications, modern data platfo
 - 📊 Data Engineering | Distributed Systems | Full Stack Development
 - 🤖 AI • Machine Learning • Generative AI
 - 📍 Chicago, IL
-- 📫 Reach me: **snaik2@depaul.edu**
+- 📫 Reach me: **naikshreyesh1601@gmail.com**
 
 ---
 
